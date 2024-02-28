@@ -1,6 +1,6 @@
 # JasyptDemo
 
-## Download the Jasypt binaries and Javadocs @
+## Download the Jasypt binaries and Javadocs:
 https://github.com/jasypt/jasypt/releases/download/jasypt-1.9.3/jasypt-1.9.3-dist.zip
 
 ## To encrypt serect:
