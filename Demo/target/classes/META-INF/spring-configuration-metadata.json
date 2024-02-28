@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "itemconfig",
+      "type": "com.example.Demo.Demo.ItemConfig",
+      "sourceType": "com.example.Demo.Demo.ItemConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "itemconfig.configuration-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.Demo.Demo.ItemConfig"
+    },
+    {
+      "name": "itemconfig.items",
+      "type": "java.util.List<com.example.Demo.Demo.ItemConfig$Item>",
+      "sourceType": "com.example.Demo.Demo.ItemConfig"
+    },
+    {
+      "name": "itemconfig.password",
+      "type": "java.lang.String",
+      "sourceType": "com.example.Demo.Demo.ItemConfig"
+    }
+  ],
+  "hints": []
+}

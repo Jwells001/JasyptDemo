@@ -1,0 +1,17 @@
+itemconfig:
+  configurationName: my configuration
+  password: ENC(llPGmqQYIrru6wxtOkZIfpKdJOrqGFNaAMFmXzL7KZc=)
+  items:
+    - name: item1
+      value: 1
+
+    - name: item2
+      value: 2
+
+jasypt:
+    encryptor:
+        bean: encryptorBean
+        password: ${JASYPT_ENCRYPTOR_PASSWORD:}
+
+logging.level:
+  org.springframework.context.annotation.ConfigurationClassPostProcessor: off
